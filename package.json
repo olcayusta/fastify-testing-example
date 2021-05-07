@@ -1,0 +1,19 @@
+{
+  "name": "testing-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --reporter=list"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.14.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^4.7.1",
+    "tap": "^14.11.0"
+  }
+}
